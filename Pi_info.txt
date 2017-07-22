@@ -1,0 +1,14 @@
+ip: 169.254.35.156
+user: pi
+pw: airspew
+
+pins si4713 - pi
+SDA - 3
+SCL - 5
+RST - 7
+5V - 2
+GND -39
+
+-autostart file is ~/.config/lxsession/LXDE-pi/autostart
+-python scripts are in /home/pi/AirSpew/
+
